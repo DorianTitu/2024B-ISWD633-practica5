@@ -1,3 +1,1 @@
-# COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado al realizar la práctica también se debe documentar.
+Durante esta práctica, aprendí a utilizar Docker Compose para gestionar aplicaciones que requieren varios contenedores, como bases de datos y aplicaciones web, facilitando su configuración y administración a través de un solo archivo YAML. Descubrí cómo definir variables de entorno para personalizar servicios, establecer dependencias entre contenedores con depends_on, y aseguré su correcto funcionamiento con la implementación de healthchecks que garantizan que los servicios estén listos antes de iniciar otros.
